@@ -1,7 +1,5 @@
 package src;
 
-import java.util.Arrays;
-
 public class SumOfArray {
     public static int arraySum(int[] nums)
     {

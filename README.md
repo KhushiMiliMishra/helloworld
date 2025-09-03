@@ -20,5 +20,7 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
       - if all the numbers are 9, then we will have to create a new array with size n+1 and then make the 0th index as 1
 5. `ArrayStringSort.java` -> This problem is for sorting an integer array, a string array and just a string itself. It uses pre-defined method (methods are assoicated with objects while functions are not) to do the same and prints the output.
 6. `SumOfArray.java` -> This is a simple for loop based program that calculates the sum of the digits in an array. The higher implementation of this program is the `TwoSum.java` which is alredy in this repo!
+7. `Formatting.java` -> Since I had trouble while solving a `double` formatting easy question, I typed out this simple program to remember that it is in fact pretty simple.
+
 
 
