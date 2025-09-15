@@ -21,6 +21,6 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 5. `ArrayStringSort.java` -> This problem is for sorting an integer array, a string array and just a string itself. It uses pre-defined method (methods are assoicated with objects while functions are not) to do the same and prints the output.
 6. `SumOfArray.java` -> This is a simple for loop based program that calculates the sum of the digits in an array. The higher implementation of this program is the `TwoSum.java` which is alredy in this repo!
 7. `Formatting.java` -> Since I had trouble while solving a `double` formatting easy question, I typed out this simple program to remember that it is in fact pretty simple.
-
+8. `CompareTo.java` -> I found out the proper functioning of the `compareTo` function in java and wanted to check how I can write a program based on it. So, this program will be for checking if the given 3 strings are in lexicographic order using compareTo. Normally we could have just used `Arrays.sort()` method to sort the strings easily, but let's check out the use of this compare to function!
 
 
