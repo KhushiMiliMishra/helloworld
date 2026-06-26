@@ -26,5 +26,5 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 10. `SecondLargest.java` -> I kept making a mistake because I didnt update the value of secondmax. So it kept being forgotten. When i get a new maximum value, the previous maximum becomes the secondmax value.
 11. `ReverseString.java` -> I did it normally by creating a stringbuilder. but we could use two pointers to do the same. but i used that approach for the next problem.
 12. `StringPalindrome.java` -> This i used two pointers method to solve and I added my own edge case wherein i wanted to ignore the case of the string. I directly converted the string to a new lowercase string. instead we could also use `Character.toLowerCase()` for the same.
-
+13. `MoveZeros.java` -> I first used two pointer approach but then realized it want necessary. Then i used a new approach called the Slow and Fast pointer. so `i` moves slow whereas `left` moves fast. `i` scans every element, but `left` only looks for the next non-zero element.
 
