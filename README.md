@@ -27,4 +27,5 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 11. `ReverseString.java` -> I did it normally by creating a stringbuilder. but we could use two pointers to do the same. but i used that approach for the next problem.
 12. `StringPalindrome.java` -> This i used two pointers method to solve and I added my own edge case wherein i wanted to ignore the case of the string. I directly converted the string to a new lowercase string. instead we could also use `Character.toLowerCase()` for the same.
 13. `MoveZeros.java` -> I first used two pointer approach but then realized it want necessary. Then i used a new approach called the Slow and Fast pointer. so `i` moves slow whereas `left` moves fast. `i` scans every element, but `left` only looks for the next non-zero element.
+14. `ArraySorted.java` -> This was pretty simple. I used a boolean variable and solved it. We can do so without boolean as well. Instead we just check each number input and return false if it isnt greater than the previous one. 
 
