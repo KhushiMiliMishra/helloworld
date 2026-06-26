@@ -24,5 +24,7 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 8. `CompareTo.java` -> I found out the proper functioning of the `compareTo` function in java and wanted to check how I can write a program based on it. So, this program will be for checking if the given 3 strings are in lexicographic order using compareTo. Normally we could have just used `Arrays.sort()` method to sort the strings easily, but let's check out the use of this compare to function!
 9. `Largest.java` -> This is a simple problem to find the largest element in an array
 10. `SecondLargest.java` -> I kept making a mistake because I didnt update the value of secondmax. So it kept being forgotten. When i get a new maximum value, the previous maximum becomes the secondmax value.
+11. `ReverseString.java` -> I did it normally by creating a stringbuilder. but we could use two pointers to do the same. but i used that approach for the next problem.
+12. `StringPalindrome.java` -> This i used two pointers method to solve and I added my own edge case wherein i wanted to ignore the case of the string. I directly converted the string to a new lowercase string. instead we could also use `Character.toLowerCase()` for the same.
 
 
