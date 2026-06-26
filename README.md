@@ -23,5 +23,6 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 7. `Formatting.java` -> Since I had trouble while solving a `double` formatting easy question, I typed out this simple program to remember that it is in fact pretty simple.
 8. `CompareTo.java` -> I found out the proper functioning of the `compareTo` function in java and wanted to check how I can write a program based on it. So, this program will be for checking if the given 3 strings are in lexicographic order using compareTo. Normally we could have just used `Arrays.sort()` method to sort the strings easily, but let's check out the use of this compare to function!
 9. `Largest.java` -> This is a simple problem to find the largest element in an array
+10. `SecondLargest.java` -> I kept making a mistake because I didnt update the value of secondmax. So it kept being forgotten. When i get a new maximum value, the previous maximum becomes the secondmax value.
 
 
