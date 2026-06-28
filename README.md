@@ -31,3 +31,6 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 15. `RemoveDuplicates.java` -> This was difficult because I kept messing up the `left` and `i` pointers. It basically uses 2 pointers where one reads and the other checks where to write the new element. We check one element with the next until both are not equal are being equal. if they are not equal we replace the initial value with the new element
 16. `RemoveElement.java` -> played with the same pattern as remove duplicates, except here we checked the value that was given
 17. `DutchNationalFlag.java` -> this was a new concept for 3-way partitioning where we used 3 variables, namely low, mid and high. `mid` acted as the scanner 
+18. `SlidingWindow.java` -> a new pattern that i learned and it was really interesting for a fixed sized window. 
+19. `Kadanes.java` -> kadanes algorithm is very easy to use and can be helpful for cases where we have to find the max/min subarray. it doesnt have a fixed boundary or window size and is therefore different from sliding window. 
+20. `RunningMin.java` -> this pattern is useful for questions where we require the best possible scenario like keeping track of the least value till a specific element and calculating the best profit of all these.
