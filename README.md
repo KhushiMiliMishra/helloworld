@@ -34,3 +34,5 @@ I’m learning the basics of the language, OOP concepts, and preparing for DSA.
 18. `SlidingWindow.java` -> a new pattern that i learned and it was really interesting for a fixed sized window. 
 19. `Kadanes.java` -> kadanes algorithm is very easy to use and can be helpful for cases where we have to find the max/min subarray. it doesnt have a fixed boundary or window size and is therefore different from sliding window. 
 20. `RunningMin.java` -> this pattern is useful for questions where we require the best possible scenario like keeping track of the least value till a specific element and calculating the best profit of all these.
+21. `BinarySearch.java` -> used when searching for a specific number out of a sorted array. we use low, mid and high variables for the same.
+22. `` ->
